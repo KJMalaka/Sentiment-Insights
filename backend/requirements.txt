@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+google-api-python-client
+vaderSentiment
+scikit-learn
+joblib
+groq
+sqlalchemy
+pydantic
+python-dotenv
+datasets
