@@ -4,6 +4,8 @@ A full-stack web app that takes a YouTube video URL, pulls its comments, runs th
 
 ![Pipeline](https://img.shields.io/badge/pipeline-VADER%20%2B%20ML%20%2B%20LLM-informational)
 
+Live link : https://sentiment-insights.vercel.app/
+
 ## Features
 
 - **Three-layer sentiment analysis** on every comment — a rule-based layer, a classic ML model, and an LLM layer for nuance (sarcasm, mixed sentiment, themes)
